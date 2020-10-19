@@ -1,7 +1,87 @@
-<!DOCTYPE html>
 <html>
+<head>
+  
+  <meta charset="utf-8"></meta>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"></meta>
+  <meta content="width=device-width, initial-scale=1" name="viewport"></meta>
+  <script crossorigin="anonymous" defer="" integrity="sha384-3LK/3kTpDE/Pkp8gTNp2gR/2gOiwQ6QaO7Td0zV76UFJVhqLl4Vl3KL1We6q6wR9" src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>
+
+  <script src="main.js"></script>
+</head>
+  <style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+  <div class="wrapper">
+
+    <!-- HEADER -->
+    <header>     
+      <nav class="sub-nav">       
+      </nav>      
+    </header>
+    <!-- END OF HEADER -->
+    
+    <!-- MAIN CONTAINER -->
+    <section class="main-container">
+      <div class="location" id="home">
+          <h1 id="home">PREFERIDAS</h1>
+          <div class="box">
+            <a href="https://watchclassicartoons.blogspot.com/p/blog-page_3.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/gumball.png?raw=true" /></a>
+            <a href="https://watchclassicartoons.blogspot.com/p/blog-page_87.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Samurai.png?raw=true" /></a>
+            <a href="https://watchclassicartoons.blogspot.com/p/blog-page_93.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/BYM.png?raw=true" /></a>
+            <a href="https://watchclassicartoons.blogspot.com/p/coraje-el-perro-cobarde.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/coraje.png?raw=true"/></a>
+            <a href="https://watchclassicartoons.blogspot.com/p/kick-buttowski.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/kick.png?raw=true" /></a>
+            <a href="https://watchclassicartoons.blogspot.com/p/kid-vs-kat.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/kid.png?raw=true" /></a>      
+          </div>
+      </div>
+      
+
+      <h1 id="myList">SERIES</h1>
+      <div class="box">
+        <a href="https://watchclassicartoons.blogspot.com/p/blog-page_3.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/gumball.png?raw=true" /></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/blog-page_87.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Samurai.png?raw=true" /></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/blog-page_93.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/BYM.png?raw=true" /></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/coraje-el-perro-cobarde.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/coraje.png?raw=true"/></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/blog-page_11.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Jack.png?raw=true" /></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/flapjack.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/flapjack.png?raw=true" /></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/kick-buttowski.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/kick.png?raw=true" /></a>
+        <a href="https://watchclassicartoons.blogspot.com/p/kid-vs-kat.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/kid.png?raw=true" /></a> 
+        <a href="https://watchclassicartoons.blogspot.com/p/blog-page_18.html"><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Brandy.png?raw=true" /></a>
+      </div>
+      
+      <h1 id="tvShows">EN PROCESO</h1>
+      <div class="box">
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/showmas.png?raw=true" /></a>  
+      </div>
+      
+
+      <h1 id="movies">PROXIMAMENTE</h1>
+      <div class="box">
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/KND.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Sendokai.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/3EspiasSinLimite.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Arnold.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/ChicasP.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Danny.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Dexter.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Foster.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/HoraDeAventura.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Juniper.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Lucha.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Pecezuelos.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Phineas.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Recreo.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/Sustitutos.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/amiyumi.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/ben10.png?raw=true" /></a>
+        <a href=""><img alt="" src="https://github.com/Ultron2z/CLASSIC-CARTOONS/blob/main/chowder.png?raw=true" /></a>
+         <a href=""><img alt="" src="https://github.com/Ultron2z/Test-Pagina/blob/main/PRONTO.png?raw=true" /></a>              
+      </div>
+     
+    <!-- END OF MAIN CONTAINER -->
+
 </body>
 </html>
