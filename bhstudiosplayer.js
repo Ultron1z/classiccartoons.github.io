@@ -1,4 +1,3 @@
-
 /*!
    JW Player version 8.23.0
    Copyright (c) 2021, JW Player, All Rights Reserved
@@ -18,7 +17,7 @@ var jwDefaults = {
   "displaydescription": false,
   "displaytitle": false,
   "height": 260,
-  "key": "ui1PPJMxr1myaPhFLHD1u0wshEA1CH2me7avEkqJUYHf+a3Ucr9/KkllUgREwkMI",
+  "key": "sb439cUVeZ7YP9faFSVxdZH7CxbIZ/R1UQp5HX1sGe6nNv7ICn0ffxpCOxorwi73",
   "logo": {
     "file": "https://assets-jpcust.jwpsrv.com/watermarks/RUjIlP0s.png",
     "hide": false,
